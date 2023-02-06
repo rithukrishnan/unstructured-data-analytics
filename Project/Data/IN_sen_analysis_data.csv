@@ -1,0 +1,42 @@
+,username,spacy similarity,compound,eval_score,Party,Name
+0,SenRodneyPol,0.367964014,0,0.183982007,D,Rodney Pol Jr.
+1,AndreaHunley_IN,0.266464955,0.048488281,0.181720759,D,Andrea Hunley
+2,SenatorYoder,0.358989699,0.001296751,0.1807916,D,Shelli Yoder
+3,Sen_GregTaylor,0.343674388,0.000377124,0.172214318,D,Greg Taylor
+4,SenFadyQaddoura,0.341267638,0,0.170633819,D,Fady Qaddoura
+5,SenNiezgodski,0.337766957,0.000592417,0.169475895,D,David Niezgodski
+6,Vote_Baldwin,0.31255748,0.007394737,0.163673477,D,Scott Baldwin
+7,SenEddieMelton,0.325052782,0,0.162526391,D,Eddie Melton
+8,SenatorRandolph,0.321810764,0,0.160905382,D,Lonnie Randolph
+9,Rodney4Indiana,0.318068543,0,0.159034272,D,Rodney Pol Jr.
+10,senandyzay,0.26357357,0.024675221,0.156462006,R,Andy Zay
+11,SenatorJDFord,0.30777564,0.000777666,0.154665486,D,J.D. Ford
+12,SenJeanBreaux,0.304516063,0.001060458,0.15331849,D,Jean Breaux
+13,Fady4Indiana,0.299674751,0,0.149837375,D,Fady Qaddoura
+14,SpencerDeery,0.28026817,0,0.140134085,R,Spencer Deery
+15,RonAlting,0.269670037,0.00218961,0.137024629,R,Ronnie Alting
+16,jbcleadership,0.269995876,0,0.134997938,R,John Crane
+17,ScottABaldwin,0.261253014,0.00433763,0.134964137,D,Scott Baldwin
+18,shelliyoder,0.265576606,0,0.132788303,D,Shelli Yoder
+19,donatoforsenate,0.260790169,0,0.130395085,R,Stacey Donato
+20,BlakeDoriot,0.257547139,0,0.12877357,R,Blake Doriot
+21,SenatorCharb,0.256713119,0,0.128356559,R,Ed Charbonneau
+22,KyleCWalker,0.248116006,0.003229885,0.127287888,R,Kyle Walker
+23,FreemanForIndy,0.240973392,0,0.120486696,R,Aaron Freeman
+24,DNiezgodski,0.234599059,0,0.117299529,D,David Niezgodski
+25,justinbusch,0.232186224,0.001153994,0.117247106,R,Justin Busch
+26,votejohncrane,0.231966609,0,0.115983304,R,John Crane
+27,bray_rodric,0.220422276,0,0.110211138,R,Rodric D. Bray
+28,LizBrownUS,0.215105102,0.001916538,0.109469089,R,Liz Brown
+29,MikeMcrider700,0.213688226,0,0.106844113,R,Mike Gaskill
+30,Shelli4Indiana,0.204185456,0,0.102092728,D,Shelli Yoder
+31,JeanBreaux,0.189238529,0.002569565,0.09718883,D,Jean Breaux
+32,gartenforsenate,0.18662351,0,0.093311755,R,Chris Garten
+33,votejonford,0.184401051,0,0.092200525,R,Jon Ford
+34,basslerINsenate,0.165550207,0,0.082775104,R,Eric Bassler
+35,DonatoStacey,0.140243394,0,0.070121697,R,Stacey Donato
+36,SenatorBecker,0.134981929,0,0.067490964,R,Vaneta Becker
+37,sen_jeanleising,0.121606076,0,0.060803038,R,Jean Leising
+38,cpgarten,0.115425256,0,0.057712628,R,Chris Garten
+39,LindaLRogers51,0.064335824,0,0.032167912,R,Linda Rogers
+40,Randolph4Senate,0,0,0,D,Lonnie Randolph

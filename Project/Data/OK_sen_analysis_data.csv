@@ -1,0 +1,22 @@
+,username,spacy similarity,compound,eval_score,party,name
+0,Stitt4Gov,0.334202463,0.002340038,0.169441269,R,Kevin Stitt
+1,votegregtreat,0.294437624,0.016385714,0.163604526,R,Greg Treat
+2,GovStitt,0.314037611,0.003895972,0.160914777,R,Kevin Stitt
+3,shanejett,0.232182485,0.039099232,0.155190475,R,Shane Jett
+4,gmccortney,0.305256666,0.001767133,0.154395466,R,Greg McCortney
+5,NathanDahm,0.286292735,0.00347855,0.146624917,R,Nathan Dahm
+6,jessgarvin85,0.239848054,0.020759965,0.140683992,R,Jessica Garvin
+7,hicks4ok,0.238515549,0.018124855,0.13738263,D,Carri Hicks
+8,dossett4ok,0.273616167,0,0.136808083,D,Jo Anna Dossett
+9,JM_Montgomery,0.265587699,0.001259265,0.134053114,R,John Montgomery
+10,blake_cowboy,0.262893311,0,0.131446655,R,Blake Cowboy Stephens
+11,KayFloydOK,0.260805649,0,0.130402825,D,Kay Floyd
+12,Weaverforsenate,0.223795497,0.015037101,0.12693485,R,Darrell Weaver
+13,jech_darcy,0.243427236,0,0.121713618,R,Darcy Jech
+14,JuliaKirt,0.214628095,0.005936796,0.113250844,D,Julia Kirt
+15,Sen_GregTreat,0.225676892,0,0.112838446,R,Greg Treat
+16,oksenthompson,0.211811053,0,0.105905527,R,Roger Thompson
+17,geysr1954,0.188671599,0.000505983,0.094841782,D,George Young
+18,WarrenHamilton,0.16097749,-0.000428405,0.080060341,R,Warren Hamilton
+19,l_kevinmatthews,0.128284491,0,0.064142246,D,Kevin Matthews
+20,AbogadoOK,0.008415082,0,0.004207541,D,Mary Boren
